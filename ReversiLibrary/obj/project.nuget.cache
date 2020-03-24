@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rSR2phni3GD/AFBNIO2S0S5PvOETjqVCbnQFT649fw7UOnWLi/yyQVbt6u3dmkz7OGGqlwljFId8JbXwuyB0Gg==",
+  "dgSpecHash": "+xqgVte5XdvNmAPRd0A6rRCr30N/120BHg31jyDyaKxE3NVs6IYGaVavTJ2GKA6j0PkwPq7Me129OZur4tVLXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiLibrary\\ReversiLibrary.csproj",
+  "projectFilePath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiLibrary\\ReversiLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damien.aigle\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\damien.aigle\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

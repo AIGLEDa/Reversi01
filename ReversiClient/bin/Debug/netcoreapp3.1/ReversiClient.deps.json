@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ReversiClient/1.0.0": {
+        "dependencies": {
+          "ReversiLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ReversiClient.dll": {}
+        }
+      },
+      "ReversiLibrary/1.0.0": {
+        "runtime": {
+          "ReversiLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReversiClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReversiLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

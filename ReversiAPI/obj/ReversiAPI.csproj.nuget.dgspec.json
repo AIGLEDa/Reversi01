@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiAPI\\ReversiAPI.csproj": {}
+    "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiAPI\\ReversiAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiAPI\\ReversiAPI.csproj": {
+    "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiAPI\\ReversiAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiAPI\\ReversiAPI.csproj",
+        "projectUniqueName": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiAPI\\ReversiAPI.csproj",
         "projectName": "ReversiAPI",
-        "projectPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiAPI\\ReversiAPI.csproj",
+        "projectPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiAPI\\ReversiAPI.csproj",
         "packagesPath": "C:\\Users\\damien.aigle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiAPI\\obj\\",
+        "outputPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

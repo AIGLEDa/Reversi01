@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ReversiLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ReversiLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReversiLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ReversiLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ReversiLibrary/ReversiLibrary.csproj",
+      "msbuildProject": "../ReversiLibrary/ReversiLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ReversiLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\damien.aigle\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiClient\\ReversiClient.csproj",
+      "projectUniqueName": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiClient\\ReversiClient.csproj",
       "projectName": "ReversiClient",
-      "projectPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiClient\\ReversiClient.csproj",
+      "projectPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiClient\\ReversiClient.csproj",
       "packagesPath": "C:\\Users\\damien.aigle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiClient\\obj\\",
+      "outputPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -37,7 +56,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiLibrary\\ReversiLibrary.csproj": {
+              "projectPath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiLibrary\\ReversiLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

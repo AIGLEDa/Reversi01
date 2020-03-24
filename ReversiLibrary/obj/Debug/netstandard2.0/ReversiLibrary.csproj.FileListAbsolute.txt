@@ -1,0 +1,9 @@
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\bin\Debug\netstandard2.0\ReversiLibrary.deps.json
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\bin\Debug\netstandard2.0\ReversiLibrary.dll
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\bin\Debug\netstandard2.0\ReversiLibrary.pdb
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\obj\Debug\netstandard2.0\ReversiLibrary.csprojAssemblyReference.cache
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\obj\Debug\netstandard2.0\ReversiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\obj\Debug\netstandard2.0\ReversiLibrary.AssemblyInfoInputs.cache
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\obj\Debug\netstandard2.0\ReversiLibrary.AssemblyInfo.cs
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\obj\Debug\netstandard2.0\ReversiLibrary.dll
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiLibrary\obj\Debug\netstandard2.0\ReversiLibrary.pdb

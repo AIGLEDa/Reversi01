@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4BYG2w0iftxUYQs6qDkFZfnNIlHf5uxxpztqt0nA7hkqW2PA07JreKBbmXa34q9LBx19QmifR8ibtL2oiOX+ZA==",
+  "dgSpecHash": "wG0ODCySCuCLRqKHMh2HnlUm9Scd2V/0890VjxRKnx6OLjubVRnfO4gGuNugaUFH98g1wAGkvGq3k+n2zJ1/Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiAPI\\ReversiAPI.csproj",
+  "projectFilePath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiAPI\\ReversiAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damien.aigle\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\damien.aigle\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

@@ -1,0 +1,16 @@
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\obj\Debug\netcoreapp3.1\ReversiClient.csprojAssemblyReference.cache
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\obj\Debug\netcoreapp3.1\ReversiClient.csproj.CoreCompileInputs.cache
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\obj\Debug\netcoreapp3.1\ReversiClient.AssemblyInfoInputs.cache
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\obj\Debug\netcoreapp3.1\ReversiClient.AssemblyInfo.cs
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\bin\Debug\netcoreapp3.1\ReversiClient.exe
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\bin\Debug\netcoreapp3.1\ReversiClient.deps.json
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\bin\Debug\netcoreapp3.1\ReversiClient.runtimeconfig.json
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\bin\Debug\netcoreapp3.1\ReversiClient.runtimeconfig.dev.json
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\bin\Debug\netcoreapp3.1\ReversiClient.dll
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\bin\Debug\netcoreapp3.1\ReversiClient.pdb
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\bin\Debug\netcoreapp3.1\ReversiLibrary.dll
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\bin\Debug\netcoreapp3.1\ReversiLibrary.pdb
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\obj\Debug\netcoreapp3.1\ReversiClient.csproj.CopyComplete
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\obj\Debug\netcoreapp3.1\ReversiClient.dll
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\obj\Debug\netcoreapp3.1\ReversiClient.pdb
+C:\Users\damien.aigle\Desktop\Projet sur git\ProjetReversi\Reversi01\ReversiClient\obj\Debug\netcoreapp3.1\ReversiClient.genruntimeconfig.cache

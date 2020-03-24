@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AajlosTM7UMUx6EqdElMxXV5E0L+URlZuDqprah6Hhjsdpun3GFQxtEcIYyJrkotDEYsYSMjiYrIz9X36Hftrg==",
+  "dgSpecHash": "ywuPl6Zv6DYtFuPCMS/k8ysLjWGVAPQDUZLoGi5g2QSc8j1Sjoj4HpkIsWI1OMlsVwyo7NQTNnGb/iRjMqaYuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\ReversiSansGit\\ReversiLibrary\\ReversiClient\\ReversiClient.csproj",
+  "projectFilePath": "C:\\Users\\damien.aigle\\Desktop\\Projet sur git\\ProjetReversi\\Reversi01\\ReversiClient\\ReversiClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
